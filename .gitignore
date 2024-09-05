@@ -1,0 +1,10 @@
+# Ignore virtual environments
+rec/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# database
+
+tmdb_5000_credits.csv
+tmdb_5000_movies.csv
